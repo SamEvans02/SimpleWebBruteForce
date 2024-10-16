@@ -1,0 +1,5 @@
+For home page: http://localhost/project/home.php 
+
+
+For the PHP script: http://localhost/project/login.php 
+    - Defaults to "Invalid credentials." 
