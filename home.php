@@ -1,6 +1,6 @@
 <html>
 <!-- home.html -->
-    <form action="login.php" method="POST">
+    <form action="/login.php" method="POST">
         <label for="username">Username:</label><br>
         <input type="text" id="username" name="username"><br>
         <label for="password">Password:</label><br>
